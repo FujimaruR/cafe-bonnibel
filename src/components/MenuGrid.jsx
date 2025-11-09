@@ -3,7 +3,7 @@ import menu from '../data/menu.json';
 
 export default function MenuGrid() {
     return (
-        <section id="menu" className="py-16 md:py-20 bg-beige/40">
+        <section id="menu" className="py-16 md:py-20 bg-beige">
             <div className="max-w-6xl mx-auto px-4">
                 <h2 className="font-serif text-3xl md:text-4xl text-cafe mb-8">Nuestro menú</h2>
                 <div className="grid md:grid-cols-3 gap-6">
