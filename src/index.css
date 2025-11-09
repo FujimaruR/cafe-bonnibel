@@ -1,5 +1,5 @@
 @import "tailwindcss";
-@import "./tokens.css";
+@import "./Tokens.css";
 
 :root {
   max-width: none;    /* por si quedó del template de Vite */
