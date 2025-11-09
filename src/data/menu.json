@@ -4,7 +4,7 @@
             "title": "Bebidas Calientes",
             "items": [
                 {
-                    "name": "Espresso sencillo",
+                    "name": "Espresso Sencillo",
                     "desc": "Extracto intenso de la casa.",
                     "price": 45
                 },
@@ -14,7 +14,7 @@
                     "price": 65
                 },
                 {
-                    "name": "Latte de vainilla",
+                    "name": "Latte de Vainilla",
                     "desc": "Vainilla natural y crema.",
                     "price": 68
                 }
@@ -29,7 +29,7 @@
                     "price": 70
                 },
                 {
-                    "name": "Frappe de caramelo",
+                    "name": "Frappe de Caramelo",
                     "desc": "Dulce y refrescante.",
                     "price": 78
                 }
@@ -39,12 +39,12 @@
             "title": "Panadería",
             "items": [
                 {
-                    "name": "Concha de vainilla",
+                    "name": "Concha de Vainilla",
                     "desc": "Masa madre, costra crujiente.",
                     "price": 32
                 },
                 {
-                    "name": "Rol de canela",
+                    "name": "Rol de Canela",
                     "desc": "Glaseado de queso crema.",
                     "price": 42
                 },
